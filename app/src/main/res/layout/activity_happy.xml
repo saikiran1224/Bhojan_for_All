@@ -22,7 +22,7 @@
             android:gravity="center"
             android:text="@string/celebrate"
             android:textColor="@color/black"
-            android:textSize="25sp"
+            android:textSize="20sp"
             android:textStyle="bold" />
 
 
@@ -30,8 +30,7 @@
             android:layout_width="match_parent"
             android:layout_height="190dp"
             android:contentDescription="@string/app_name"
-            android:padding="10dp"
-            android:src="@drawable/hands" />
+            android:src="@drawable/happy" />
 
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
@@ -145,7 +144,7 @@
 
         <Button
             android:id="@+id/celebsubmit"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_margin="20dp"

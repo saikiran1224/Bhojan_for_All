@@ -20,6 +20,7 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/open_sans"
             android:gravity="center"
+            android:textStyle="bold"
             android:text="@string/doing_good_does_you_good"
             android:textColor="@color/black"
             android:textSize="19sp" />
@@ -29,8 +30,7 @@
             android:layout_height="190dp"
             android:layout_gravity="center"
             android:contentDescription="@string/app_name"
-            android:padding="10dp"
-            android:src="@drawable/v1" />
+            android:src="@drawable/volunteer_reg" />
 
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
@@ -96,7 +96,7 @@
 
         <Button
             android:id="@+id/volunregsubmit"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:background="@drawable/button"

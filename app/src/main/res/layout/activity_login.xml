@@ -19,6 +19,7 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/open_sans"
             android:gravity="center"
+            android:textStyle="bold"
             android:text="@string/welcome_back"
             android:textColor="@color/black"
             android:textSize="21sp" />
@@ -26,9 +27,8 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="190dp"
-            android:padding="10dp"
             android:contentDescription="@string/app_name"
-            android:src="@drawable/volun2002" />
+            android:src="@drawable/volunteer" />
 
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"
@@ -71,7 +71,6 @@
             android:background="@drawable/button"
             android:fontFamily="@font/open_sans"
             android:text="@string/sign_in"
-            android:textAllCaps="false"
             android:textColor="@color/white"
             android:textSize="17sp" />
 

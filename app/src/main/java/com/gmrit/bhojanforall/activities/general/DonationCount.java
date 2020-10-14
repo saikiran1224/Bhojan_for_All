@@ -46,7 +46,7 @@ public class DonationCount extends AppCompatActivity {
 
         doncountPic = (ImageView) findViewById(R.id.donCountPic);
 
-        Glide.with(this).load(R.drawable.doncount).into(doncountPic);
+        Glide.with(this).load(R.drawable.donation_count).into(doncountPic);
 
         ConnectivityManager connectivityManager = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
         //we are connected to a network

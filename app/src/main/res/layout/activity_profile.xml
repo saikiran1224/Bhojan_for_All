@@ -14,8 +14,7 @@
         android:layout_gravity="center"
         android:layout_margin="5dp"
         android:contentDescription="@string/app_name"
-        android:padding="10dp"
-        android:src="@drawable/volun2002" />
+        android:src="@drawable/volunteer" />
 
     <TextView
         android:id="@+id/volunprofilename"

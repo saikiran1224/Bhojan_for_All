@@ -29,8 +29,7 @@
             android:layout_height="190dp"
             android:layout_gravity="center_horizontal"
             android:contentDescription="@string/app_name"
-            android:padding="10dp"
-            android:src="@drawable/rer" />
+            android:src="@drawable/volunteer_reg" />
 
 
         <com.google.android.material.textfield.TextInputLayout

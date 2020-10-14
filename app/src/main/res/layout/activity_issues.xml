@@ -21,6 +21,13 @@
         android:textSize="25sp"
         android:textStyle="bold" />
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/suggestion" />
+
+
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -52,8 +59,8 @@
 
     <Button
         android:id="@+id/issuessubmit"
-        android:layout_width="80dp"
-        android:layout_height="45dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="10dp"
         android:background="@drawable/button"

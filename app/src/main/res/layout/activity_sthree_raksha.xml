@@ -14,12 +14,12 @@
         android:layout_height="wrap_content"
         android:text="Emergency"
         android:layout_gravity="center_horizontal"
-        android:drawableStart="@drawable/sthree_icon"
-        android:textSize="28sp"
+        android:textSize="25sp"
         android:drawablePadding="52dp"
         android:textColor="#000"
         android:textStyle="bold"
-        android:layout_marginTop="20dp">
+        android:layout_marginTop="20dp"
+        app:drawableStartCompat="@drawable/sthree_icon">
     </TextView>
 
     <TextView
@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:text="@string/stand_up_for_women_s_safety"
         android:layout_gravity="end"
-        android:textSize="20sp"
+        android:textSize="18sp"
         android:textStyle="italic"
         android:textColor="#5E5D5D"
         android:layout_marginEnd="5dp"

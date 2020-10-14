@@ -28,8 +28,7 @@
             android:layout_width="match_parent"
             android:layout_height="190dp"
             android:contentDescription="@string/app_name"
-            android:padding="10dp"
-            android:src="@drawable/cir" />
+            android:src="@drawable/volunteer" />
 
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"

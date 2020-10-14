@@ -95,7 +95,7 @@ public class FoodDetailsActivity extends AppCompatActivity implements AdapterVie
             getSupportActionBar().setTitle("Donate Food");
         }
 
-        Glide.with(this).load(R.drawable.smiling).into(foodDetailsPic);
+        Glide.with(this).load(R.drawable.donate).into(foodDetailsPic);
         ref = (DatabaseReference) FirebaseDatabase.getInstance().getReference("Volunteers");
 
         reff = FirebaseDatabase.getInstance().getReference().child("Food_Details");

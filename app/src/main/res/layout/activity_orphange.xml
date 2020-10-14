@@ -10,6 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
+        android:background="@color/white"
         tools:context="com.gmrit.bhojanforall.activities.recipients.RecipientActivity">
 
         <TextView
@@ -27,8 +28,7 @@
             android:layout_height="190dp"
             android:layout_gravity="center"
             android:contentDescription="@string/app_name"
-            android:padding="10dp"
-            android:src="@drawable/hap" />
+            android:src="@drawable/recipient" />
 
 
         <com.google.android.material.textfield.TextInputLayout
