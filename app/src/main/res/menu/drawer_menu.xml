@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_happy"
+            android:icon="@drawable/ic_cake_black_24dp"
+            android:title="@string/celebrate_birthday" />
+
+        <item
+            android:id="@+id/nav_doncount"
+            android:icon="@drawable/ic_timeline_black_24dp"
+            android:title="@string/view_your_donations" />
+
+
+        <item
+            android:id="@+id/nav_nearby"
+            android:icon="@drawable/ic_near_me_black_24dp"
+            android:title="@string/nearby_ngo" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_photo_black_24dp"
+            android:title="@string/gallery" />
+
+        <item
+            android:id="@+id/nav_org"
+            android:icon="@drawable/ic_account_balance_black_24dp"
+            android:title="@string/recipients" />
+
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="@string/about" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_warning_black_24dp"
+            android:title="@string/report_issues" />
+    </group>
+</menu>

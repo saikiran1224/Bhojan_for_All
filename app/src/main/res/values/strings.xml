@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">Bhojan for All</string>
+    <string name="title_activity_regvolunteer">regvolunteer</string>
+    <string name="gallery">Gallery</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="upload">Upload Photos</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_login2">Sign in</string>
+    <string name="enter_email">Email ID</string>
+    <string name="enter_password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="new_user_click_here_to_register">New User ? Click here to Register</string>
+    <string name="register">Register</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sign_up">Sign up</string>
+    <string name="submit">Submit</string>
+    <string name="signout">Sign Out</string>
+    <string name="no_internet_connection_available">No Internet Connection Available</string>
+    <string name="forgot_password_click_here">Forgot Password ? Click here</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="default_notification_channel_id">admin_channel</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="_17341a1236_gmrit_edu_in">umangsolutions2020@gmail.com</string>
+    <string name="_91_63031_49161">+91 63031 49161</string>
+    <string name="department_of_information_technology">Department of Information Technology</string>
+    <string name="gmr_institute_of_technology">GMR Institute of Technology \n Andhra Pradesh, India</string>
+    <string name="welcome_administrator">Welcome Administrator !</string>
+    <string name="volunteer_phone_number">Volunteer Phone No.</string>
+    <string name="search">Search</string>
+    <string name="volunteer_name">Volunteer Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="deliveries">Deliveries :</string>
+    <string name="normal_status">Normal Status</string>
+    <string name="high_status">High Status</string>
+    <string name="help_other_people_eat_hope">Help Other People Eat (HOPE)</string>
+    <string name="submit_details">SUBMIT DETAILS</string>
+    <string name="full_name">Donor Name</string>
+    <string name="phone">Donor Phone No.</string>
+    <string name="address">Address</string>
+    <string name="celebrate">Celebrate \n Happy Moments with Us!</string>
+    <string name="name_of_donor">Donor Name</string>
+    <string name="donor_phone_number">Donor Phone No. </string>
+    <string name="donor_email_id">Donor Email ID</string>
+    <string name="date_of_celebration">Date of Celebration</string>
+    <string name="donation_money">Donation Money</string>
+    <string name="report_problems_here">Report your Problem here</string>
+    <string name="suggestions_compliants">Suggestions/Complaints</string>
+    <string name="welcome_back">Alone we can do so little\n Together we can do so much.</string>
+    <string name="donate_food">Donate Food</string>
+    <string name="volunteer">Volunteer</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="try_again">Try Again</string>
+    <string name="doing_good_does_you_good">Doing Good Does You Good.</string>
+    <string name="name">Name</string>
+    <string name="already_have_an_account_sign_in">Already Have an Account? Sign in</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="email_id1">Email ID</string>
+    <string name="type">Type :</string>
+    <string name="phone_no">Phone No :</string>
+    <string name="status">Status</string>
+    <string name="ready">Ready</string>
+    <string name="enter_donor_name">Enter Donor Name</string>
+    <string name="saikiran_kopparthi">Saikiran Kopparthi</string>
+    <string name="total_no_of_deliveries">Total No. of Deliveries :</string>
+    <string name="enter_username">Username</string>
+    <string name="new_recipient_click_here_to_register">New Recipient ? Click here to Register</string>
+    <string name="welcome_recipients">We Rise by lifting others</string>
+    <string name="spirit_of_giving">Spirit of Giving</string>
+    <string name="name_of_organization">Organization Name</string>
+    <string name="username">Username</string>
+    <string name="post_donated_photo">Post Donated Photo</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="enter_place">Location</string>
+    <string name="no_of_people_benefitted">No. of People Benefited</string>
+    <string name="posted_by">Posted By</string>
+    <string name="kakinada">Kakinada</string>
+    <string name="celebrate_birthday">Celebrate your Occasion</string>
+    <string name="hunger_statistics">Hunger Statistics</string>
+    <string name="recipients">Recipients</string>
+    <string name="about">About</string>
+    <string name="report_issues">Report Issues</string>
+    <string name="hello_recip">Lending a Helping Hand</string>
+    <string name="no_of_people">Food can feed  (No. of People)</string>
+    <string name="code">code</string>
+    <string name="bun_name">name</string>
+    <string name="bun_place">place</string>
+    <string name="bun_address">address</string>
+    <string name="bun_phone">phone</string>
+    <string name="foodno">foodno</string>
+    <string name="bun_time">time</string>
+    <string name="currentdate">date</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="please_enter_verification_code_sent_to_n_91xxxxxxx">Please enter Verification code sent to \n+91xxxxxxxxx</string>
+    <string name="validate_otp">Validate OTP</string>
+    <string name="sthree_raksha">Sthree Raksha</string>
+    <string name="emergen">Emergency Contact</string>
+    <string name="contact_police">Contact Police</string>
+    <string name="stand_up_for_women_s_safety">Stand up for Volunteer\'s Safety</string>
+    <string name="address_found" translatable="false">Address found</string>
+    <string name="no_address_found" translatable="false">Sorry, no address found</string>
+    <string name="no_location_data_provided" translatable="false">No location data provided</string>
+    <string name="service_not_available" translatable="false">Sorry, the service is not available</string>
+    <string name="invalid_lat_long_used" translatable="false">Invalid latitude or longitude used</string>
+
+
+    <string name="view_your_donations">View your Donations</string>
+
+    <string name="nearby_ngo">Nearby NGO</string>
+    <string name="search_nearby_ngo_s">Search Nearby NGO\'s</string>
+    <string name="enter_your_location">Enter your Location</string>
+    <string name="enter_your_phone_number">Enter your Phone Number</string>
+
+
+    <string name="view_your_donations_count">View your Donations Count</string>
+    <string name="email_id">Email ID</string>
+
+
+    <!--Testing Ads-->
+    <!--<string name="banner_home_footer">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <string name="admob_app_id">ca-app-pub-7341014042556519~1951002345</string>
+    <string name="banner_home_footer">ca-app-pub-7341014042556519/2689368944</string>
+    <string name="interstitial_full_screen">ca-app-pub-7341014042556519/7302113945</string>
+
+
+    <string-array name="placetype">
+        <item>Choose Type of Place</item>
+        <item>Restaurant</item>
+        <item>Commercial Place</item>
+        <item>House</item>
+        <item>Function</item>
+    </string-array>
+    <string-array name="timetaken">
+        <item>Cooked Before</item>
+        <item>1 Hour</item>
+        <item>2 Hours</item>
+        <item>3 Hours</item>
+        <item>4 Hours</item>
+        <item>5 Hours</item>
+    </string-array>
+
+
+    <string-array name="occasion">
+        <item>Select Occasion</item>
+        <item>Birthday</item>
+        <item>Graduation</item>
+        <item>New Baby</item>
+        <item>Retirement</item>
+        <item>Wedding Anniversary</item>
+    </string-array>
+    <string-array name="recipient">
+        <item>Select Recipient</item>
+        <item>Deaf and Dumb School</item>
+        <item>Orphans Old Age Home</item>
+        <item>Orphanage</item>
+        <item>Charity Home</item>
+        <item>School for Physically Challenged</item>
+    </string-array>
+
+
+    <string-array name="organization_type">
+        <item>Type of Recipient</item>
+        <item>Charity Home</item>
+        <item>School for Physically Challenged</item>
+        <item>Orphanages</item>
+        <item>Old Age Homes</item>
+    </string-array>
+
+</resources>

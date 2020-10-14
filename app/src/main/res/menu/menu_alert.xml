@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.bloodbank.Home1Activity">
+
+    <item
+        android:id="@+id/action_alertvollog"
+        android:icon="@drawable/ic_warning_black_24dp"
+        android:title="Emergency Contact"
+        app:showAsAction="always"/>
+</menu>
