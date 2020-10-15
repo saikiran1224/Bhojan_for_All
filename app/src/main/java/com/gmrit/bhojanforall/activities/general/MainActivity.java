@@ -205,7 +205,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                             modelList.add(new Banners(item.getName(), uri.toString()));
                             BannerAdapter adapter = new BannerAdapter(MainActivity.this, modelList);
                             sliderImage.setSliderAdapter(adapter);
-                            sliderImage.setIndicatorAnimation(IndicatorAnimationType.WORM); //set indicator animation by using SliderLayout.IndicatorAnimations. :WORM or THIN_WORM or COLOR or DROP or FILL or NONE or SCALE or SCALE_DOWN or SLIDE and SWAP!!
+                            sliderImage.setIndicatorAnimation(IndicatorAnimationType.SWAP); //set indicator animation by using SliderLayout.IndicatorAnimations. :WORM or THIN_WORM or COLOR or DROP or FILL or NONE or SCALE or SCALE_DOWN or SLIDE and SWAP!!
                             sliderImage.setSliderTransformAnimation(SliderAnimations.CUBEINROTATIONTRANSFORMATION);
                             sliderImage.setAutoCycleDirection(SliderView.AUTO_CYCLE_DIRECTION_BACK_AND_FORTH);
                             sliderImage.setIndicatorRadius(5);
