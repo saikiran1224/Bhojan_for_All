@@ -91,6 +91,15 @@
         </com.google.android.material.textfield.TextInputLayout>
 
         <Spinner
+            android:id="@+id/typeOfDonation"
+            style="@style/AppTheme.FilterSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:entries="@array/typeOfDonation" />
+
+
+        <Spinner
             android:id="@+id/foodtime"
             style="@style/AppTheme.FilterSpinner"
             android:layout_width="match_parent"

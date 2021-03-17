@@ -92,7 +92,7 @@ public class FoodDetailsActivity extends AppCompatActivity implements AdapterVie
 
         if (getSupportActionBar() != null) {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-            getSupportActionBar().setTitle("Donate Food");
+            getSupportActionBar().setTitle("Donate to Poor");
         }
 
         Glide.with(this).load(R.drawable.donate).into(foodDetailsPic);

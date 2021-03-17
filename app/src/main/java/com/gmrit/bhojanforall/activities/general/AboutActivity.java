@@ -27,7 +27,7 @@ public class AboutActivity extends AppCompatActivity {
             getSupportActionBar().setTitle("About Us");
         }
 
-        Glide.with(AboutActivity.this).load(R.drawable.logobhojan).into(aboutLogo);
+        Glide.with(AboutActivity.this).load(R.drawable.appicc).into(aboutLogo);
 
 
     }

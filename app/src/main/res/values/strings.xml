@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Bhojan for All</string>
+    <string name="app_name">Food 4 All</string>
     <string name="gallery">Gallery</string>
 
     <string name="profile">Profile</string>
@@ -136,6 +136,14 @@
         <item>3 Hours</item>
         <item>4 Hours</item>
         <item>5 Hours</item>
+    </string-array>
+
+    <string-array name="typeOfDonation">
+        <item>Choose Additional Donation</item>
+        <item>Food</item>
+        <item>Clothes</item>
+        <item>Essential Items</item>
+        <item>Money</item>
     </string-array>
 
 

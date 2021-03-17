@@ -10,13 +10,15 @@
 
     <ImageView
         android:layout_width="70dp"
+        android:scaleType="centerCrop"
+
         android:layout_height="70dp"
-        android:src="@drawable/logotrans"/>
+        android:src="@drawable/appicc"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:paddingTop="8dp"
-        android:text="Bhojan for All"
+        android:text="@string/app_name"
         android:fontFamily="@font/open_sans"
         android:textColor="#fff"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
