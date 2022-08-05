@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:layout_margin="5dp"
     android:orientation="vertical"
-    tools:context="com.gmrit.bhojanforall.activities.volunteer.VolunteerActivity">
+    tools:context="com.kirandroid.bhojanforall.activities.volunteer.VolunteerActivity">
 
     <EditText
         android:id="@+id/volunedittext"

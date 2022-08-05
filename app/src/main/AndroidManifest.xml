@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.gmrit.bhojanforall">
+    package="com.kirandroid.bhojanforall">
 
     <application
-        android:name="com.gmrit.bhojanforall.firebase.FireBaseApp"
+        android:name="com.kirandroid.bhojanforall.firebase.FireBaseApp"
         android:allowBackup="true"
         android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher"
@@ -18,68 +18,68 @@
         tools:targetApi="m">
 
         <activity
-            android:name="com.gmrit.bhojanforall.activities.recipients.RecipientResetPassword"
+            android:name="com.kirandroid.bhojanforall.activities.recipients.RecipientResetPassword"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan|stateAlwaysHidden" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.general.DonationCount"
+            android:name="com.kirandroid.bhojanforall.activities.general.DonationCount"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.general.NearbyNGOActivity"
+            android:name="com.kirandroid.bhojanforall.activities.general.NearbyNGOActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.general.SthreeRaksha"
+            android:name="com.kirandroid.bhojanforall.activities.general.SthreeRaksha"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.donor.OTP_ValidationActivity"
+            android:name="com.kirandroid.bhojanforall.activities.donor.OTP_ValidationActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Light.NoActionBar"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.donor.DonorCelebrateActivity"
+            android:name="com.kirandroid.bhojanforall.activities.donor.DonorCelebrateActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.volunteer.VolunteerProfileActivity"
+            android:name="com.kirandroid.bhojanforall.activities.volunteer.VolunteerProfileActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.recipients.RecipientActivity"
+            android:name="com.kirandroid.bhojanforall.activities.recipients.RecipientActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.recipients.RecipientLoginActivity"
+            android:name="com.kirandroid.bhojanforall.activities.recipients.RecipientLoginActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.recipients.RecipientRegistrationActivity"
+            android:name="com.kirandroid.bhojanforall.activities.recipients.RecipientRegistrationActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.recyclerView.RecyclerViewGallery"
+            android:name="com.kirandroid.bhojanforall.recyclerView.RecyclerViewGallery"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.volunteer.UploadPhotosActivity"
+            android:name="com.kirandroid.bhojanforall.activities.volunteer.UploadPhotosActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.administrator.AdminActivity"
+            android:name="com.kirandroid.bhojanforall.activities.administrator.AdminActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.volunteer.ResetPasswordActivity"
+            android:name="com.kirandroid.bhojanforall.activities.volunteer.ResetPasswordActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.general.IssuesActivity"
+            android:name="com.kirandroid.bhojanforall.activities.general.IssuesActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.general.AboutActivity"
+            android:name="com.kirandroid.bhojanforall.activities.general.AboutActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
 <!--
@@ -90,8 +90,9 @@
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
 -->
         <activity
-            android:name="com.gmrit.bhojanforall.activities.general.SplashScreenActivity"
-            android:screenOrientation="portrait">
+            android:name="com.kirandroid.bhojanforall.activities.general.SplashScreenActivity"
+            android:screenOrientation="portrait"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -99,24 +100,24 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.gmrit.bhojanforall.activities.donor.FoodDetailsActivity"
+            android:name="com.kirandroid.bhojanforall.activities.donor.FoodDetailsActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan"/>
         <activity
-            android:name="com.gmrit.bhojanforall.activities.volunteer.VolunteerRegistrationActivity"
+            android:name="com.kirandroid.bhojanforall.activities.volunteer.VolunteerRegistrationActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.volunteer.VolunteerLoginActivity"
+            android:name="com.kirandroid.bhojanforall.activities.volunteer.VolunteerLoginActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
         <activity
-            android:name="com.gmrit.bhojanforall.activities.volunteer.VolunteerActivity"
+            android:name="com.kirandroid.bhojanforall.activities.volunteer.VolunteerActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
 
         <activity
-            android:name="com.gmrit.bhojanforall.activities.general.MainActivity"
+            android:name="com.kirandroid.bhojanforall.activities.general.MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppThemeNav"
             android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
@@ -145,8 +146,9 @@
     <!--    <receiver android:name=".NotificationReceiver" />-->
 
         <service
-            android:name="com.gmrit.bhojanforall.firebase.MyFirebaseMessagingService"
-            android:permission="com.google.android.c2dm.permission.SEND">
+            android:name="com.kirandroid.bhojanforall.firebase.MyFirebaseMessagingService"
+            android:permission="com.google.android.c2dm.permission.SEND"
+            android:exported="true">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />

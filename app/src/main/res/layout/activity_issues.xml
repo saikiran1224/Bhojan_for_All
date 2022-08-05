@@ -7,7 +7,7 @@
     android:background="@color/white"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context="com.gmrit.bhojanforall.activities.general.IssuesActivity">
+    tools:context="com.kirandroid.bhojanforall.activities.general.IssuesActivity">
 
 
     <TextView

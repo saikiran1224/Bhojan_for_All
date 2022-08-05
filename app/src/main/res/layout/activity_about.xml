@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/white"
-    tools:context="com.gmrit.bhojanforall.activities.general.AboutActivity">
+    tools:context="com.kirandroid.bhojanforall.activities.general.AboutActivity">
 
     <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
@@ -25,6 +25,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="190dp"
                 android:layout_gravity="center"
+                android:src="@drawable/appicc"
                 android:contentDescription="@string/app_name"
                 android:padding="10dp" />
 
@@ -50,16 +51,6 @@
                 android:textSize="15sp" />
 
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:layout_marginTop="10dp"
-                android:drawableStart="@drawable/ic_phone"
-                android:drawablePadding="15dp"
-                android:text="@string/_91_63031_49161"
-                android:textColor="#000"
-                android:textSize="15sp" />
 
             <TextView
                 android:layout_width="wrap_content"

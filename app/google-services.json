@@ -1,42 +1,119 @@
 {
   "project_info": {
-    "project_number": "787000104957",
-    "firebase_url": "https://bhojanforall-147a6.firebaseio.com",
-    "project_id": "bhojanforall-147a6",
-    "storage_bucket": "bhojanforall-147a6.appspot.com"
+    "project_number": "693289999799",
+    "firebase_url": "https://food-4-all-83f41.firebaseio.com",
+    "project_id": "food-4-all-83f41",
+    "storage_bucket": "food-4-all-83f41.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:787000104957:android:63f8b11f1e52fae4796b94",
+        "mobilesdk_app_id": "1:693289999799:android:ebc17838c0366bbf401c32",
         "android_client_info": {
-          "package_name": "com.gmrit.bhojanforall"
+          "package_name": "com.gmrit.food4all"
         }
       },
       "oauth_client": [
         {
-          "client_id": "787000104957-r4cif5epcvdr1n6bd6aj1rd8q0o7ff8e.apps.googleusercontent.com",
+          "client_id": "693289999799-19hpq2tur1cesh641sps0q9ck31suvgo.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.gmrit.bhojanforall",
+            "package_name": "com.gmrit.food4all",
+            "certificate_hash": "398ae5a8fcf42f52254c14441a4b51b921a31b33"
+          }
+        },
+        {
+          "client_id": "693289999799-bscb6ju24pmsk4jlugv4gdgcr20f5875.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmrit.food4all",
+            "certificate_hash": "355701ae84e1b861f9a9ac1210e97b033966a848"
+          }
+        },
+        {
+          "client_id": "693289999799-df7trkvtvv0cdjcnam0ugugfsrcv1j79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmrit.food4all",
+            "certificate_hash": "e45db28ad945530ed3e7a9e578a449615ade587b"
+          }
+        },
+        {
+          "client_id": "693289999799-ff2s23h3fbvl7atf5933vs9mnp5rfrcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmrit.food4all",
             "certificate_hash": "a367c9ac043b9d39c6d1aa60fe1fb68001de92d9"
           }
         },
         {
-          "client_id": "787000104957-s48soqtu0ub3n079im8tte96qb0j08tl.apps.googleusercontent.com",
+          "client_id": "693289999799-jhl2mv62mufja22m7jtl9doi3mnu7c2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmrit.food4all",
+            "certificate_hash": "77e40ee750d79a424f362030576ced5b5c899220"
+          }
+        },
+        {
+          "client_id": "693289999799-ms1qvep3aggs6e97hqmnhm5964ndubt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmrit.food4all",
+            "certificate_hash": "100e32874e02f1f5adf85cea84f6b73410abdaf5"
+          }
+        },
+        {
+          "client_id": "693289999799-qsro4mbf233o67jah318jqo4j492h97m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmrit.food4all",
+            "certificate_hash": "cc4876e51c7d938252cf0b14dd63e38c6baea0b2"
+          }
+        },
+        {
+          "client_id": "693289999799-dct0sl5ktq8abmo2r2kadj97lbeuilkf.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDT1-gJTrGiA4h3YJewbslX4aLj_x3Ty88"
+          "current_key": "AIzaSyBiWreOz_inQMghUWOLdsK1zRPXu_cLJmc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "787000104957-s48soqtu0ub3n079im8tte96qb0j08tl.apps.googleusercontent.com",
+              "client_id": "693289999799-dct0sl5ktq8abmo2r2kadj97lbeuilkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693289999799:android:3e7b55416fd71847401c32",
+        "android_client_info": {
+          "package_name": "com.kirandroid.bhojanforall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693289999799-dct0sl5ktq8abmo2r2kadj97lbeuilkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiWreOz_inQMghUWOLdsK1zRPXu_cLJmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693289999799-dct0sl5ktq8abmo2r2kadj97lbeuilkf.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
